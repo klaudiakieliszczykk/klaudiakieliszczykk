@@ -40,8 +40,7 @@ Tailored web solutions for the haircare industry:
 
 ## 📬 Let’s connect!
 
-📧 k.kieliszczyk1997@gmail.com  
-📱 +48 601 290 269  
+📧 k.kieliszczyk1997@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/klaudia-kieliszczyk-003304167/) 
 
 
