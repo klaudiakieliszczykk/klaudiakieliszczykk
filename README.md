@@ -25,4 +25,50 @@ name: Klaudia
 <img src="https://devicon-website.vercel.app/api/gimp/original.svg" alt="GIMP" width="45" height="45"/> 
 </p>
 
+# 👋 Hi, I'm Karolina
+
+**WordPress Developer | Front-End Enthusiast | Beauty-Tech Creative**
+
+I’m a WordPress Developer with hands-on experience in building custom, visually appealing websites — especially for the beauty industry. I specialize in crafting product pages, integrating e-commerce functionalities, and managing content with a strong eye for brand consistency.
+
+💡 I'm passionate about translating business goals into intuitive digital experiences that engage users and drive results.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Front-End:** HTML, CSS, basic JavaScript
+- **CMS:** WordPress (custom themes, Brizy builder, WooCommerce integration)
+- **Design:** Adobe Photoshop
+- **Collaboration:** GitHub, TeamViewer
+- **Tech Stack:** Microsoft 365, basic Windows Server & Active Directory
+- **Networking:** DNS, DHCP, RDP, IIS
+
+---
+
+## 🧩 Recent Experience
+
+**Freelance WordPress Developer**  
+📍 *Sep 2024 – Mar 2025*  
+Tailored web solutions for the haircare industry:
+- ✨ Designed branded, visually engaging websites
+- 🛍️ Built detailed product pages with reviews & imagery
+- 💳 Integrated e-commerce with smooth payment flow
+- 📰 Managed blog posts & promotional content
+- 🤝 Collaborated closely with clients to meet their vision
+
+---
+
+## 📬 Let’s connect!
+
+📧 k.kieliszczyk1997@gmail.com  
+📱 +48 601 290 269  
+🌐 [LinkedIn](#) *(Add your link!)*
+
+---
+
+> “Good design is obvious. Great design is transparent.” – Joe Sparano
+
+
+
 <!-- <img src="" alt="" width="45" height="45"/> -->
