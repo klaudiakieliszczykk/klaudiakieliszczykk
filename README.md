@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Klaudia%20Kieliszczyk)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Klaudia%20Kieliszczyk"/>
+</p>
 
 <!--
 **klaudiakieliszczykk/klaudiakieliszczykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
