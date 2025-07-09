@@ -3,14 +3,15 @@
 </p>
 
 
-# 👋 Hi, I'm Klaudia
+<h1 align="center">👋 Hi, I'm Klaudia</h1>
 
-**WordPress Developer | Front-End Enthusiast**
+<p align="center">
+<b>WordPress Developer | Front-End Enthusiast</b>
 
 I’m a WordPress Developer with hands-on experience in building custom, visually appealing websites — especially for the beauty industry. I specialize in crafting product pages, integrating e-commerce functionalities, and managing content with a strong eye for brand consistency.
 
 💡 I'm passionate about translating business goals into intuitive digital experiences that engage users and drive results.
-
+</p>
 ---
 
 ## 🛠️ Skills & Tools
