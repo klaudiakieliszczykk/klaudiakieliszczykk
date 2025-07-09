@@ -8,7 +8,7 @@
 <p align="center">
 <b>WordPress Developer | Front-End Enthusiast</b>
 
-I’m a WordPress Developer with hands-on experience in building custom, visually appealing websites — especially for the beauty industry. I specialize in crafting product pages, integrating e-commerce functionalities, and managing content with a strong eye for brand consistency.
+I’m a WordPress Developer with hands-on experience in building custom, visually appealing websites - especially for the beauty industry. I specialize in crafting product pages, integrating e-commerce functionalities, and managing content with a strong eye for brand consistency.
 
 💡 I'm passionate about translating business goals into intuitive digital experiences that engage users and drive results.
 </p>
@@ -28,7 +28,7 @@ I’m a WordPress Developer with hands-on experience in building custom, visuall
 ## 🧩 Recent Experience
 
 **Freelance WordPress Developer**  
-📍 *Sep 2024 – Mar 2025*  
+📍 *Sep 2024 - Mar 2025*  
 Tailored web solutions for the haircare industry:
 - ✨ Designed branded, visually engaging websites
 - 🛍️ Built detailed product pages with reviews & imagery
@@ -58,7 +58,7 @@ Tailored web solutions for the haircare industry:
 
 ---
 
-> “Good design is obvious. Great design is transparent.” – Joe Sparano
+> “Good design is obvious. Great design is transparent.” - Joe Sparano
 
 
 
