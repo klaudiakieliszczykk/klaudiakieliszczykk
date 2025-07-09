@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"
-       width="320"
-       style="border-radius: 12px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.2); background: black;" />
+  <div style="display:inline-block; background:#000; padding:10px; border-radius:15px; box-shadow:0 0 20px rgba(255,255,255,0.1);">
+    <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" width="320" />
+  </div>
 </p>
 
 
