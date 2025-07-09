@@ -44,6 +44,13 @@ Tailored web solutions for the haircare industry:
 📱 +48 601 290 269  
 🌐 [LinkedIn](https://www.linkedin.com/in/klaudia-kieliszczyk-003304167/) 
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klaudiakieliszczykk&show_icons=true&theme=rose_pine" />
+</p>
+
 ---
 
 > “Good design is obvious. Great design is transparent.” – Joe Sparano
