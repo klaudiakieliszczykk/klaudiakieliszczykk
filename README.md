@@ -49,9 +49,12 @@ Tailored web solutions for the haircare industry:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaudiakieliszczykk&layout=compact&theme=rose_pine" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=klaudiakieliszczykk&show_icons=true&theme=rose_pine" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=klaudiakieliszczykk&theme=rose_pine" />
-
 </p>
 
 ---
