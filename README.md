@@ -18,27 +18,10 @@ I’m a WordPress Developer with hands-on experience in building custom, visuall
 
 - **Front-End:** HTML, CSS, basic JavaScript
 - **CMS:** WordPress (custom themes, Brizy builder, WooCommerce integration)
-- **Design:** Adobe Photoshop
+- **Design:** Adobe Photoshop, Canva, Procreate
 - **Collaboration:** GitHub, TeamViewer
 - **Tech Stack:** Microsoft 365, basic Windows Server & Active Directory
 - **Networking:** DNS, DHCP, RDP, IIS
-
-🖥️ &nbsp;Some Coding Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="HTML" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/wordpress/original.svg" alt="WordPress" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="CSS3" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/github/original.svg" alt="Github" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="45" height="45"/>
-</p>
-
-🎨 &nbsp;Graphics Programs I Know</h2>
-<p align="left">
-<img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" alt="Photoshop" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/canva/original.svg" alt="Canva" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/gimp/original.svg" alt="GIMP" width="45" height="45"/> 
-</p>
 
 ---
 
