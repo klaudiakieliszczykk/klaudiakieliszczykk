@@ -13,7 +13,6 @@ I’m a WordPress Developer with hands-on experience in building custom, visuall
 💡 I'm passionate about translating business goals into intuitive digital experiences that engage users and drive results.
 </p>
 
----
 
 ## 🛠️ Skills & Tools
 
