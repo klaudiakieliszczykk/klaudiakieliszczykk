@@ -3,7 +3,7 @@
 </p>
 
 
-#👋 Hi, I'm Klaudia
+# 👋 Hi, I'm Klaudia
 
 **WordPress Developer | Front-End Enthusiast**
 
