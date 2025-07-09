@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/24488b4f49ed8fe0aa46a8b8eb08dbda/cee4c2cc18e2b6bd-7e/s540x810/93e7d64364fddf06c37a6bfaad817e99348ae129.gif" width=400 />
 </p>
 
-<p align="center">
+
 #👋 Hi, I'm Klaudia
 
 **WordPress Developer | Front-End Enthusiast**
@@ -10,7 +10,7 @@
 I’m a WordPress Developer with hands-on experience in building custom, visually appealing websites — especially for the beauty industry. I specialize in crafting product pages, integrating e-commerce functionalities, and managing content with a strong eye for brand consistency.
 
 💡 I'm passionate about translating business goals into intuitive digital experiences that engage users and drive results.
-</p>
+
 ---
 
 ## 🛠️ Skills & Tools
